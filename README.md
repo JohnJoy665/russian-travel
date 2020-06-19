@@ -17,6 +17,6 @@
 
 **Ссылка на проект**
 
-* [Ссылка на проект в Гит-хабе](https://johnjoy665.github.io/new-Russian-travel/index.html)
+* [Ссылка на проект в Гит-хабе](https://johnjoy665.github.io/russian-travel/index.html)
 
 Спасибо!
