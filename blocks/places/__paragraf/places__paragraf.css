@@ -1,0 +1,20 @@
+.places__paragraf {
+  margin: 0;
+  padding: 0;
+  max-width: 456px;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 500px) {
+  .places__paragraf {
+    max-width: 288px;
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: 16px;
+  }
+}

@@ -1,0 +1,7 @@
+.header__lang-link_ru {
+  margin-right: 18px;
+}
+
+.header__lang-link_ru:hover {
+  text-decoration: underline;
+  }

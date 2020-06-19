@@ -1,0 +1,44 @@
+@import url(./__title/places__title.css);
+@import url(./__url-container/places__url-container.css);
+@import url(./__url-heading/places__url-heading.css);
+@import url(./__link/places__link.css);
+@import url(./__cards/places__cards.css);
+@import url(./__card/places__card.css);
+@import url(./__image/places__image.css);
+@import url(./__paragraf-container/places__paragraf-container.css);
+@import url(./__paragraf/places__paragraf.css);
+
+.places {
+  max-width: 984px;
+  width: calc(100% - (48px * 2));
+  -webkit-width: calc(100% - (48px * 2));
+  -moz-width: calc(100% - (48px * 2));
+  -o-width: calc(100% - (48px * 2));
+  margin: auto;
+  padding: 92px 0 0 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 837px) {
+  .places {
+    max-width: 720px;
+    width: calc(100% - (24px * 2));
+    -webkit-width: calc(100% - (24px * 2));
+    -moz-width: calc(100% - (24px * 2));
+    -o-width: calc(100% - (24px * 2));
+    padding-top: 88px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .places {
+    width: 100%;
+    margin: 0;
+    padding-top: 64px;
+  }
+}

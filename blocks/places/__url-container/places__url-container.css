@@ -1,0 +1,11 @@
+.places__url-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 500px) {
+  .places__url-container {
+    display: none ;
+  }
+}

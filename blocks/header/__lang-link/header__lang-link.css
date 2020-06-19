@@ -1,0 +1,19 @@
+@import url(./_langs/header__lang-link_ru.css);
+@import url(./_langs/header__lang-link_en.css);
+
+.header__lang-link {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+@media screen and (max-width: 673px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}
