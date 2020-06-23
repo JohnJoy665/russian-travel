@@ -1,5 +1,4 @@
-@import url(./_langs/header__lang-link_ru.css);
-@import url(./_langs/header__lang-link_en.css);
+@import url(./_active/header__lang-link_active.css);
 
 .header__lang-link {
   text-decoration: none;
