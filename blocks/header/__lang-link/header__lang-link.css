@@ -8,6 +8,11 @@
   line-height: 28px;
 }
 
+.header__lang-link:hover {
+  opacity: 0.8;
+  transition: all 0.3s ease-out;
+}
+
 @media screen and (max-width: 673px) {
   .header__lang-link {
     font-size: 18px;
